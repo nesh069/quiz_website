@@ -55,5 +55,6 @@ This website was built using HTML and CSS. It has three main sections:
 
 ## Credits
 
-- Calculator image from [F-Droid repository](https://f-droid.org/repo/bored.codebyk.mintcalc/en-US/phoneScreenshots/1.png)
+- Calculator image from (https://f-droid.org/repo/bored.codebyk.mintcalc/en-US/phoneScreenshots/1.png)
+- ToDolist App image ("https://s16458.pcdn.co/wp-content/uploads/2018/04/ToDoList.png")
 - Created as part of a school assignment.
